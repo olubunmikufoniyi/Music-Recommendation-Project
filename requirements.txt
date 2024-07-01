@@ -1,0 +1,8 @@
+streamlit
+seaborn
+plotly
+cssutils
+pillow
+tqdm
+matplotlib
+scikit-learn
